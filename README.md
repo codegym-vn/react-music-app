@@ -1,4 +1,8 @@
 # AppNgheNhacDesignReactNativeTraining
+<br/>
+
+Mã nguồn AppNgheNhacDesignReactNativeTraining được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
+<br/>
 Case Study - Giao diện app nghe nhạc
 
 # Mục tiêu bài tập
